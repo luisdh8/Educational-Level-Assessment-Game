@@ -30,9 +30,5 @@ This program promotes a culture of responsible electricity usage, aims to reduce
 1. Execute only the file named "main.py".
 2. Register as a new user and you will start playing.
 
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 MIT License
