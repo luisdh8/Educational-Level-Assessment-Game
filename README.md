@@ -31,4 +31,4 @@ This program promotes a culture of responsible electricity usage, aims to reduce
 2. Register as a new user and you will start playing.
 
 ## License
-MIT License
+This project is licensed under the MIT License.
